@@ -1,0 +1,14 @@
+D:\.NetPractice\telephoneDirectory\bin\Debug\net7.0\telephoneDirectory.exe
+D:\.NetPractice\telephoneDirectory\bin\Debug\net7.0\telephoneDirectory.deps.json
+D:\.NetPractice\telephoneDirectory\bin\Debug\net7.0\telephoneDirectory.runtimeconfig.json
+D:\.NetPractice\telephoneDirectory\bin\Debug\net7.0\telephoneDirectory.dll
+D:\.NetPractice\telephoneDirectory\bin\Debug\net7.0\telephoneDirectory.pdb
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.AssemblyInfoInputs.cache
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.AssemblyInfo.cs
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.csproj.CoreCompileInputs.cache
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.dll
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\refint\telephoneDirectory.dll
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.pdb
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\telephoneDirectory.genruntimeconfig.cache
+D:\.NetPractice\telephoneDirectory\obj\Debug\net7.0\ref\telephoneDirectory.dll
